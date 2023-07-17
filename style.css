@@ -1,0 +1,41 @@
+
+.top-container{
+    margin-top: 0;
+    background-color: #D5DEF5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.image{
+    border-radius: 90%;
+}
+h1{
+    font-family: 'Lugrasimo', cursive;
+}
+.intro{
+    font-size:large;
+}
+.A{
+    color: #6643B5;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: xxx-large;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif ;
+}
+.middle-container{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn{
+    background-color: #6643B5;
+    color: azure;
+}
+.bottom-container{
+    background-color: #6643B5;
+}
+
+.copyright{
+    text-align: center;    
+    color: white;
+}
